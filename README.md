@@ -3,8 +3,8 @@
 有时, 我们可能有这样的需求: 根据数据生成HTML表格.
 
 <img
-  src="https://cloud.githubusercontent.com/assets/130878/20946612/49a8a25c-bbc0-11e6-8314-10bef902af51.png"
-  alt="Superset"
+  src="https://github.com/shgy/pypearls/blob/master/htmlutil.png"
+  alt="pypearls"
   width="500"
 />
 
